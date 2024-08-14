@@ -1,0 +1,61 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimpleCalc",
+            "request": "launch",
+            "mainClass": "SimpleCalc",
+            "projectName": "java_21d40518",
+            "vmArgs": "--module-path \"C:/Users/porch/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "QuadraticFormula",
+            "request": "launch",
+            "mainClass": "QuadraticFormula",
+            "projectName": "java_21d40518",
+            "vmArgs": "--module-path \"C:/Users/porch/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "VowelsAndCons",
+            "request": "launch",
+            "mainClass": "VowelsAndCons",
+            "projectName": "java_21d40518",
+            "vmArgs": "--module-path \"C:/Users/porch/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "VowelsAndCons",
+            "request": "launch",
+            "mainClass": "lab 05.VowelsAndCons",
+            "projectName": "java_21d40518",
+            "vmArgs": "--module-path \"C:/Users/porch/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "java_21d40518"
+        },
+        {
+            "type": "java",
+            "name": "login",
+            "request": "launch",
+            "mainClass": "login",
+            "projectName": "java_21d40518",
+            "vmArgs": "--module-path \"C:/Users/porch/javafx-sdk-21/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
